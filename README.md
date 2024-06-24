@@ -7,3 +7,5 @@
 - Zod (form authorization, schema creation along with react forms)
 - ChartJs (for charts)
 - AppWrite for the Database of the Application
+- Sentry for code fixes and changes
+- 
