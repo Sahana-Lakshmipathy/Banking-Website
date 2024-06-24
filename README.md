@@ -8,4 +8,4 @@
 - ChartJs (for charts)
 - AppWrite for the Database of the Application
 - Sentry for code fixes and changes
-- 
+- Plaid (for banking functionality)
